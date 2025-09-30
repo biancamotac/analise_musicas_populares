@@ -1,33 +1,27 @@
-#📊 Análise de Músicas Populares
+# Análise de Músicas Populares 🎵
 
-##🎯 Objetivo
+## 📚 Sobre o Projeto
+Este projeto realiza uma análise exploratória de dados sobre músicas populares, explorando padrões de gênero, duração, popularidade e tendências ao longo do tempo.
 
-Este projeto realiza uma análise exploratória de dados sobre músicas populares, com foco em identificar padrões e tendências no consumo musical.
+O objetivo é demonstrar **análise de dados, manipulação de datasets e visualização** usando Python.
 
------
+---
 
-##🧠 Análises Realizadas
+## 🗂️ Dados
+O projeto utiliza um dataset de músicas populares, contendo informações como:
 
-Distribuição de Gêneros Musicais: Identificação dos gêneros mais populares.
+- Nome da música  
+- Artista  
+- Gênero  
+- Duração  
+- Popularidade  
+- Ano de lançamento
 
-Análise de Duração das Músicas: Estudo da duração média das faixas.
+---
 
-Popularidade ao Longo do Tempo: Tendências de popularidade ao longo dos anos.
+## 🎯 Análises
+- Distribuição de gêneros musicais.  
+- Duração média das músicas.  
+- Tendências de popularidade ao longo do tempo.  
+- Gráficos para visualização de padrões e insights.
 
-----
-
-##📊 Visualizações
-
-O projeto inclui gráficos que ilustram as análises realizadas, facilitando a compreensão dos dados.
-
-----
-
-##🛠️ Tecnologias Utilizadas
-
-Python 3
-
-Pandas: Manipulação de dados
-
-Matplotlib: Visualização de dados
-
-Seaborn: Visualização estatística
